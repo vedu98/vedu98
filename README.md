@@ -1,4 +1,4 @@
-### Hi there, I'm Chirag! 👋
+### Hi there, I'm Vedant! 👋
 
 
 ## I'm an aspiring Data scientist and a machine learning enthusiast!!
