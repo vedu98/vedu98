@@ -5,9 +5,9 @@
 
 - 🔭 I'm currently looking to work in the Data science domain.
 - 🌱 I’m currently learning new things and participating in hackathons.
-- 👯 I’m looking to collaborate with other developers for winning Hackathons.
+- 👯 I’m open to collaborate with other developers for winning Hackathons.
 - 🥅 2020 Goals: Participate in Hackathons and contribute more to Open Source projects
-- ⚡ Fun fact: I love to play football and meditate.
+- ⚡ Fun fact: I love to play football and travel.
 
 
 ### Connect with me:
