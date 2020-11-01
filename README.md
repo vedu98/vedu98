@@ -49,7 +49,7 @@
 
 </details>
 
-[website]: https://chiragtalwar9090.github.io/DataBoy_portfolio/
+[website]:https://github.com/vedu98?tab=repositories
 [twitter]: https://twitter.com/Yidster1
 [instagram]: https://www.instagram.com/chiragtalwar11/?hl=en
 [linkedin]: www.linkedin.com/in/vedant-bhushan-bb3791188
