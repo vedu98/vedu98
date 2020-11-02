@@ -45,7 +45,7 @@
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreayan98c)](https://shreayan98c.github.io/)
 
 
-  <img align="left" alt="Vedant's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=chiragtalwar9090&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
+  <img align="left" alt="Vedant's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vedu98&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
 
 </details>
 
